@@ -10,6 +10,9 @@ Finds VINs using eBay.
 - [Pip](http://pip.readthedocs.org/en/latest/installing.html)
 - [PyQuery](https://pypi.python.org/pypi/pyquery) (if you are having issues with Pip..)
 
+###Setting up PyQuery:
+Download and extract the zip file.  In the pyquery folder you should see a file named setup.py (or just setup).  To use this open a command line in this folder and type `python setup.py install`.  This will install PyQuery for you.
+
 ###Getting started:
 
     pip install -r requirements.txt (Optional if you manually installed pyquery)
