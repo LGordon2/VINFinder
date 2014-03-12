@@ -6,12 +6,13 @@ Finds VINs using eBay.
 
 ###Requirements:
 
-- Python 2.7.x (developed on Python 2.7.5)
-- Pip -- http://pip.readthedocs.org/en/latest/installing.html
+- [Python 2.7.x](http://www.python.org/download/releases/2.7/) (developed on Python 2.7.5)
+- [Pip](http://pip.readthedocs.org/en/latest/installing.html)
+- [PyQuery](https://pypi.python.org/pypi/pyquery) (if you are having issues with Pip..)
 
 ###Getting started:
 
-    pip install -r requirements.txt
+    pip install -r requirements.txt (Optional if you manually installed pyquery)
     python VINFinder.py
 
 ###Notes:
