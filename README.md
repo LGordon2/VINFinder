@@ -6,8 +6,8 @@ Finds VINs using eBay.
 
 ###Requirements:
 
-Python 2.7.x (developed on Python 2.7.5)
-Pip -- http://pip.readthedocs.org/en/latest/installing.html
+- Python 2.7.x (developed on Python 2.7.5)
+- Pip -- http://pip.readthedocs.org/en/latest/installing.html
 
 ###Getting started:
 
