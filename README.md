@@ -15,6 +15,10 @@ Finds VINs using eBay.
     pip install -r requirements.txt (Optional if you manually installed pyquery)
     python VINFinder.py
 
+###Example with custom url:
+
+    python VINFinder.py url http://www.ebay.com/sch/Cars-Trucks-/6001/i.html?_ipg=200
+
 ###Notes:
 
 * The "boat" argument creates a predefined search on boats.
