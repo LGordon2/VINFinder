@@ -4,7 +4,7 @@
 
 import socket, threading, re, sys, csv, urllib, urlparse, httplib, time
 from Queue import *
-MAX_THREADS = 150
+MAX_THREADS = 50
 DEBUG = True
 thread_pool = threading.BoundedSemaphore(value=MAX_THREADS)
 
