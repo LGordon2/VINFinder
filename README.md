@@ -4,6 +4,8 @@ Author: Lew Gordon
 
 Finds VINs using eBay.
 
+Note: If this implementation isn't working on your machine please see [VINFinderRuby](https://github.com/LGordon2/VINFinderRuby)
+
 ###Requirements:
 
 - [Python 2.7.x](http://www.python.org/download/releases/2.7/) (developed on Python 2.7.5)
